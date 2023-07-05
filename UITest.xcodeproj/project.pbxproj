@@ -13,6 +13,7 @@
 		DB26B2742A407F3000946257 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB26B2722A407F3000946257 /* Main.storyboard */; };
 		DB26B2762A407F3100946257 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB26B2752A407F3100946257 /* Assets.xcassets */; };
 		DB26B2792A407F3100946257 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB26B2772A407F3100946257 /* LaunchScreen.storyboard */; };
+		DBE40E0A2A56052D00558A76 /* StackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE40E092A56052D00558A76 /* StackViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB26B2752A407F3100946257 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB26B2782A407F3100946257 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB26B27A2A407F3100946257 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBE40E092A56052D00558A76 /* StackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DB26B26C2A407F3000946257 /* AppDelegate.swift */,
 				DB26B26E2A407F3000946257 /* SceneDelegate.swift */,
 				DB26B2702A407F3000946257 /* ViewController.swift */,
+				DBE40E092A56052D00558A76 /* StackViewController.swift */,
 				DB26B2722A407F3000946257 /* Main.storyboard */,
 				DB26B2752A407F3100946257 /* Assets.xcassets */,
 				DB26B2772A407F3100946257 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB26B2712A407F3000946257 /* ViewController.swift in Sources */,
+				DBE40E0A2A56052D00558A76 /* StackViewController.swift in Sources */,
 				DB26B26D2A407F3000946257 /* AppDelegate.swift in Sources */,
 				DB26B26F2A407F3000946257 /* SceneDelegate.swift in Sources */,
 			);
